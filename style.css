@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Cor do fundo clara */
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #003366; /* Azul escuro para os títulos */
+}
+
+a {
+    color: #003366; 
+    text-decoration: none; /* Remove o sublinhado */
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ff6600; /* Cor laranja ao passar o mouse */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+header {
+    background-color: #003366; /* Azul escuro para o cabeçalho */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #003366; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
