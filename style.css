@@ -14,7 +14,7 @@ h1 {
 }
 
 a {
-    color: #003366; 
+    color: #003366; /* Azul escuro para os links */
     text-decoration: none; /* Remove o sublinhado */
     font-weight: bold;
 }
@@ -47,13 +47,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white; 
+    color: white; /* Cor dos links no menu */
     text-decoration: none;
     font-weight: bold;
 }
 
 footer {
-    background-color: #003366; 
+    background-color: #003366; /* Azul escuro para o rodapé */
     color: white;
     text-align: center;
     padding: 10px 0;
